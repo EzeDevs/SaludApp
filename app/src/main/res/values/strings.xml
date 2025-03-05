@@ -2,4 +2,5 @@
     <string name="app_name">SaludApp</string>
     <string name="put_your_name">Escribe tu nombre</string>
     <string name="press_button">Pulsame</string>
+    <string name="hint_name">Tu nombre</string>
 </resources>

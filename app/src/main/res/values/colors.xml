@@ -6,4 +6,5 @@
     <color name="background_app">#222831</color>
     <color name="background_button">#892CDC</color>
     <color name="title_text">#EEEEEE</color>
+    <color name="hint_text">#FDEBED</color>
 </resources>
